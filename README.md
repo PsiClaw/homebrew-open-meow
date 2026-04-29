@@ -1,8 +1,8 @@
-# PsiClaw Homebrew Tap
+# OpenMeow Homebrew Tap
 
 ## Install
 
-    brew tap PsiClaw/tap
+    brew tap OpenCoven/open-meow
     brew install --cask open-meow
 
 ## Available Casks
